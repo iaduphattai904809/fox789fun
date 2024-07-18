@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+Fox789: เว็บไซต์พนันที่มีความน่าเชื่อถืออันดับต้นๆในประเทศไทย - fox789.fun
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Fox789  <https://fox789.fun/ >`_ เป็นสถานที่สำหรับคนรักการเดิมพันออนไลน์ที่ไม่ควรพลาด! Fox789 ยังเป็นแหล่งรวมเกมไพ่หลากหลายเกม ให้คุณสนุกสนานกับบาคาร่า ป๊อกเด้ง รวมถึงเกมคาสิโนที่หลากหลายอย่างเช่น รูเล็ต สล็อต และอื่น ๆ ที่จะทำให้คุณตื่นเต้นและสัมผัสความตื่นเต้นได้อย่างแท้จริง! ไม่เพียงเท่านั้น ยังมีการเดิมพันกีฬาออนไลน์เพื่อให้คุณสามารถเปิดชัยกับทักษะทางกีฬาและมุมมองที่คาดไม่ถึงได้อีกด้วย!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Address: 17, 3 Hua Mak Rd, Hua Mak, Bang Kapi District, Bangkok 10240
 
-.. note::
+Phone: 66882482229
 
-   This project is under active development.
+Website: https://fox789.fun/ 
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+#fox789 #fox789fun
